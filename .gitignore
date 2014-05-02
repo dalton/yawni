@@ -1,0 +1,16 @@
+*~
+*.lock
+*.DS_Store
+*swp
+*.out
+*.gem
+*.sh
+*.bin
+
+*.xml
+
+*.zip
+
+*.jar
+
+.idea
